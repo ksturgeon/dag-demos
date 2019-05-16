@@ -1,0 +1,11 @@
+/Users/kevinsturgeon/demo/dag-demos/find_by_id/obj/Debug/netcoreapp2.2/find_by_id.csprojAssemblyReference.cache
+/Users/kevinsturgeon/demo/dag-demos/find_by_id/obj/Debug/netcoreapp2.2/find_by_id.csproj.CoreCompileInputs.cache
+/Users/kevinsturgeon/demo/dag-demos/find_by_id/obj/Debug/netcoreapp2.2/find_by_id.AssemblyInfoInputs.cache
+/Users/kevinsturgeon/demo/dag-demos/find_by_id/obj/Debug/netcoreapp2.2/find_by_id.AssemblyInfo.cs
+/Users/kevinsturgeon/demo/dag-demos/find_by_id/bin/Debug/netcoreapp2.2/find_by_id.deps.json
+/Users/kevinsturgeon/demo/dag-demos/find_by_id/bin/Debug/netcoreapp2.2/find_by_id.runtimeconfig.json
+/Users/kevinsturgeon/demo/dag-demos/find_by_id/bin/Debug/netcoreapp2.2/find_by_id.runtimeconfig.dev.json
+/Users/kevinsturgeon/demo/dag-demos/find_by_id/bin/Debug/netcoreapp2.2/find_by_id.dll
+/Users/kevinsturgeon/demo/dag-demos/find_by_id/bin/Debug/netcoreapp2.2/find_by_id.pdb
+/Users/kevinsturgeon/demo/dag-demos/find_by_id/obj/Debug/netcoreapp2.2/find_by_id.dll
+/Users/kevinsturgeon/demo/dag-demos/find_by_id/obj/Debug/netcoreapp2.2/find_by_id.pdb
